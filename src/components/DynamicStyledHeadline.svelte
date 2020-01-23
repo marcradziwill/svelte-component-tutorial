@@ -1,5 +1,5 @@
 <script>
-  let name = "Linda";
+  let name = "Nora";
 </script>
 
 <style>
